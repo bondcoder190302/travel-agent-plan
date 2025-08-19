@@ -15,7 +15,7 @@ Customer churn, or when customers stop using a service, can be detrimental to bu
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any improvements, bug fixes, or new features.
 With Love and Coffee,
-Priyanshi Sharma
+Vipul
 
 
 
